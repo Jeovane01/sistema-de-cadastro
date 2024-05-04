@@ -4,5 +4,5 @@
 
 Para rodar este projeto na sua máquina, por favor digite: 
 ```
-app.js
+node app.js
 ```
